@@ -18,5 +18,5 @@ hdmi_blanking=1
 # hdmi lines have no effect on RPI 7" touchscreen
 hdmi_group=2
 hdmi_mode=87
-hdmi_cvt=1024 600 60 6 0 0 0
+hdmi_cvt=1024 600 60 3 0 0 0
 hdmi_force_hotplug=1
